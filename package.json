@@ -2,10 +2,15 @@
   "name": "display",
   "version": "0.1.0",
   "private": true,
+  "description": "boilerplate",
+  "author": "yourNameHere",
+  "build": {
+    "appId": "display.menu"
+  },
+  "homepage": "./",
   "main": "public/electron.js",
   "dependencies": {
     "cross-env": "^6.0.3",
-    "electron": "^7.1.2",
     "electron-is-dev": "^1.1.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
@@ -36,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "electron": "^7.1.2",
     "concurrently": "^5.0.0",
     "electron-builder": "^21.2.0",
     "wait-on": "^3.3.0"

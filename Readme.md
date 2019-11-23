@@ -1,6 +1,7 @@
 ### Electron+React Boilerplate
 
 Boilerplate for Electron+React.
+[Tutorial from Will Ward](https://www.youtube.com/watch?v=Cdu2O6o2DCg)
 
 #### Available commands
 
